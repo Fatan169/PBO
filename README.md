@@ -5,6 +5,7 @@
 ![AltText](https://github.com/Fatan169/PBO/blob/master/ModulPBO%20-%20NetBeans%20IDE%208.2%2010_9_2019%207_38_01%20PM.png "Hasil Dua")
 # HasilTiga
 ![AltText](https://github.com/Fatan169/PBO/blob/master/ModulPBO%20-%20NetBeans%20IDE%208.2%2010_9_2019%207_38_14%20PM.png "Hasil Tiga")
+method yang digunakan adalah void
 # HasilEmpat
 ![AltText](https://github.com/Fatan169/PBO/blob/master/ModulPBO%20-%20NetBeans%20IDE%208.2%2010_9_2019%207_56_50%20PM.png "Hasil Empat")
 # HasilLima
