@@ -12,3 +12,5 @@ method yang digunakan adalah void
 ![AltText](https://github.com/Fatan169/PBO/blob/master/ModulPBO%20-%20NetBeans%20IDE%208.2%2010_9_2019%207_56_57%20PM.png "Hasil Lima")
 # HasilEnam
 ![AltText](https://github.com/Fatan169/PBO/blob/master/ModulPBO%20-%20NetBeans%20IDE%208.2%2010_9_2019%207_58_30%20PM.png "Hasil Enam")
+# HasilTujuh
+![AltText](https://github.com/Fatan169/PBO/blob/master/Pilih%20Kantin%2010_9_2019%209_15_42%20PM.png "Hasil Tujuh")
